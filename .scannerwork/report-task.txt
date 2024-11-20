@@ -1,0 +1,6 @@
+projectKey=Nextflix
+serverUrl=http://192.168.0.11:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://192.168.0.11:9000/dashboard?id=Nextflix
+ceTaskId=95971cc9-a3c2-4716-a1a3-1e131c64e5f2
+ceTaskUrl=http://192.168.0.11:9000/api/ce/task?id=95971cc9-a3c2-4716-a1a3-1e131c64e5f2

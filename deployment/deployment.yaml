@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nextflix-app
-        image: yassir17/nextflix:11
+        image: yassir17/nextflix:15
         ports:
         - containerPort: 80
