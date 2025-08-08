@@ -13,4 +13,4 @@ spec:
   selector:
     app: nextflix-app
   #type: LoadBalancer
-   type: NodePort
+  type: NodePort
